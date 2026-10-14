@@ -453,7 +453,7 @@
 	"config.page.lang.auto": "自動",
 	"config.page.advanced": "顯示進階設定",
 	"config.page.warning": "警告",
-	"config.page.warning.desc": "進階設定項目可能會影響外掛穩定性或導致異常行為。除非您瞭解這些設定的作用，否則請勿隨意修改。",
+	"config.page.warning.desc": "進階設定項可能會影響外掛穩定性或導致異常行為。除非您瞭解這些設定的作用，否則請勿隨意修改。",
 	"config.page.cancel": "取消",
 	"config.page.confirm": "我已瞭解風險",
 	"nav.home": "首頁",
@@ -461,5 +461,8 @@
 	"nav.pack": "卡牌包",
 	"nav.skins": "造型",
 	"nav.mercenaries": "傭兵",
-	"nav.about": "關於"
-}
+	"nav.about": "關於",
+	"ModTextures.name": "卡牌MOD",
+	"ModTextures.label": "卡牌美化",
+	"ModTextures.description": "卡牌插畫MOD，將VAC_958.jpg檔案放置在 Hearthstone\\ModData下，重啟遊戲自動載入圖像，遊戲內按F4也會重新載入。以下幾種命名都會被辨識：1，VAC_958.jpg 2，演化聚合體-VAC_958.jpg 3，演化聚合體-珍藏-VAC_958.jpg 4，珍藏-VAC_958.jpg 演化聚合體 這裡只是備註，jpg也可命名為聚合體-VAC_958.jpg，圖像解析度最好為512*512"
+	}
